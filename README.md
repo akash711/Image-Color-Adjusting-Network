@@ -61,4 +61,4 @@ Apply color adjustment values of one image to the other adjusted image.
 ## Test results
 Original image | Synthesized image | Adjusted image
 :---:|:---:|:---:
-![Original image](data/mirflickr25k/im83.jpg)|![Synthesized image](data/synthesized_data/im83_b1.3802_c0.4381.jpg)|![Adjusted image](output/im83_adjusted.jpg)
+![Original image](data/im83.jpg)|![Synthesized image](data/im83_b1.3802_c0.4381.jpg)|![Adjusted image](output/im83_adjusted.jpg)
